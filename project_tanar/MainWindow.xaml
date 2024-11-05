@@ -33,7 +33,7 @@
         <Border Background="GreenYellow" CornerRadius="20" Width="100" Height="50" RenderTransformOrigin="05,05" Grid.Row="2" Grid.Column="2">
             <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="travant"/>
         </Border>
-        <StackPanel  Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+        <StackPanel Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
             <TextBlock Grid.Row="1" Text="feher"/>
             <TextBlock Grid.Row="1" Text="sarga"/>
             <TextBlock Grid.Row="1" Text="prios"/>
